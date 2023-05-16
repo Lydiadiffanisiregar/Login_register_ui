@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-| -------- |-----------|
-| Lydia Diffani Siregar | -------|
+
+| Lydia Diffani Siregar | 
 | -------------- | --------|
 
 ## Getting Started
