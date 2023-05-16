@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-| Lydia Diffani Siregar | 312010 | 
+| Lydia Diffani Siregar | TI.20.A3 | 
 | -------------- | --------|
 
 ## Getting Started
